@@ -23,6 +23,14 @@ requirejs.config({
         testMid: {
             deps: ['react', 'react-dom'],
             exports: 'TestMid'
+        },
+        cyyReact: {
+            deps: ['react', 'react-dom', 'cyyReactPlus'],
+            exports: 'CyyReact'
+        },
+        cyyReactPlus: {
+            deps: ['react', 'react-dom'],
+            exports: 'CyyReactPlus'
         }
     }
 });
