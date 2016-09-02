@@ -48,8 +48,11 @@ TestMid.addReactComponent = function (label) {
     );
 };
 
-TestMid.bindReactAction = function (component, actionType, action) {
-    console.info("bindReactAction");
+TestMid.bindReactAction = function (component, data, action, id) {
+    ReactDOM.render(
+        React.createElement(component, {data: data, action: action}, null),
+        document.getElementById(id)
+    );
 };
 
 TestMid.renderComponent = function (component, id) {
@@ -58,3 +61,5 @@ TestMid.renderComponent = function (component, id) {
         document.getElementById(id)
     );
 };
+
+
