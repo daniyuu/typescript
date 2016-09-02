@@ -9,13 +9,6 @@ requirejs.config({
         babel:'./bower_components/requirejs-babel/babel-5.8.34.min'
     },
     shim: {
-        backbone: {
-            deps: ['jquery', 'underscore'],
-            exports: 'Backbone'
-        },
-        underscore: {
-            exports: '_'
-        },
         react: {
             exports: 'React'
         },
@@ -25,14 +18,6 @@ requirejs.config({
         testMid: {
             deps: ['react', 'react-dom'],
             exports: 'TestMid'
-        },
-        cyyReact: {
-            deps: ['react', 'react-dom', 'cyyReactPlus'],
-            exports: 'CyyReact'
-        },
-        cyyReactPlus: {
-            deps: ['react', 'react-dom'],
-            exports: 'CyyReactPlus'
         }
     }
 });

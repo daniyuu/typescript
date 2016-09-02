@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c038ea12-e022-4b61-b49d-6368752da423" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subjsx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/backbone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/cyyReact.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/cyyReactPlus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/underscore.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/index.html" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js" />
     </list>
@@ -39,21 +39,9 @@
           <file leaf-file-name="testMid.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+                <state relative-caret-position="957">
+                  <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
                   <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="cyy.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-                  <folding>
-                    <element signature="e#0#41#0" expanded="false" />
-                  </folding>
                 </state>
               </provider>
             </entry>
@@ -62,7 +50,7 @@
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="231">
-                  <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+                  <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -73,47 +61,41 @@
           <file leaf-file-name="reactapp.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="528">
-                  <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#0#42#0" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="testrequire.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="297">
-                  <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+                <state relative-caret-position="132">
+                  <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/package.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="common.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+                <state relative-caret-position="264">
+                  <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
                   <folding>
                     <element signature="e#0#42#0" expanded="false" />
-                    <marker date="1472780621147" expanded="true" signature="60:893" ph="{&quot;baseUrl&quot;: 'js/lib'...}" />
-                    <marker date="1472780621147" expanded="true" signature="96:248" ph="{&quot;app&quot;: '../app'...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="cyyjsx.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="cyyjsx.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="297">
-                  <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-                  <folding>
-                    <element signature="e#0#39#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="66">
+                  <caret line="2" column="20" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="20" />
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -208,11 +190,11 @@
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.jsx" />
-        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/index.html" />
-        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subjsx.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.js" />
+        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js" />
+        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
       </list>
     </option>
   </component>
@@ -329,58 +311,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="requirejs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example-multipage-shim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="typescript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="requirejs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example-multipage-shim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -477,12 +407,12 @@
       <option name="presentableId" value="Default" />
       <updated>1472543104072</updated>
       <workItem from="1472543107172" duration="1469000" />
-      <workItem from="1472606340460" duration="37637000" />
+      <workItem from="1472606340460" duration="38701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39106000" />
+    <option name="totallyTimeSpent" value="40170000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -524,14 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage/js/app/main2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/example-multipage/js/app/controller/Base.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -744,9 +666,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2863">
           <caret line="9209" column="0" selection-start-line="9209" selection-start-column="0" selection-end-line="9209" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,9 +708,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="587" column="6" selection-start-line="587" selection-start-column="6" selection-end-line="587" selection-end-column="6" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,9 +716,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -872,46 +788,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-            <marker date="1472780621147" expanded="true" signature="60:893" ph="{&quot;baseUrl&quot;: 'js/lib'...}" />
-            <marker date="1472780621147" expanded="true" signature="96:248" ph="{&quot;app&quot;: '../app'...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -920,21 +796,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        <state relative-caret-position="66">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="20" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -948,12 +814,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyyjsx.js">
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="957">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/testrequire.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
