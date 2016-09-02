@@ -6,32 +6,13 @@ define(function (require) {
     var React = require('react');
     var ReactDOM = require('react-dom');
     var cyy = require('./cyy');
-        // ReactDOM = require('react-dom'),
-        // TestMid = require('testMid'),
-        // CyyReact = require('cyyReact');
+    var TestMid = require('testMid');
 
-    // TestMid.testFunction();
-    // TestMid.addReactComponent('cyy1');
-    // TestMid.renderComponent(CyyReact.Component1,'cyy2');
-    // CyyReact.testFunction();
+    TestMid.renderComponent(cyy,'cyy2');
 
-    // var CommentBox = React.createClass({
-    //     displayName: 'CommentBox',
-    //     render: function () {
-    //         return (
-    //             React.createElement('div', {className: "commentBox"},
-    //                 "Hello, world! I am a CommentBox."
-    //             )
-    //         );
-    //     }
-    // });
     ReactDOM.render(
         React.createElement(cyy, null),
         document.getElementById('cyy')
     );
-
-    // console.info(cyy);
-
-
 
 });

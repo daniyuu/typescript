@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c038ea12-e022-4b61-b49d-6368752da423" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" afterPath="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
     </list>
     <ignored path="typescript.iws" />
@@ -33,18 +30,18 @@
           <file leaf-file-name="testMid.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="562">
-                  <caret line="54" column="45" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="45" />
+                <state relative-caret-position="-1055">
+                  <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="reactapp.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="reactapp.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="132">
-                  <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+                <state relative-caret-position="528">
+                  <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#42#0" expanded="false" />
                   </folding>
@@ -52,11 +49,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="cyy.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="cyy.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="429">
-                  <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+                <state relative-caret-position="495">
+                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -216,9 +213,9 @@
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/cyyReactPlus.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/common.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/cyyReact.js" />
-        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js" />
         <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js" />
+        <option value="$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js" />
       </list>
     </option>
   </component>
@@ -571,12 +568,12 @@
       <option name="presentableId" value="Default" />
       <updated>1472543104072</updated>
       <workItem from="1472543107172" duration="1469000" />
-      <workItem from="1472606340460" duration="34210000" />
+      <workItem from="1472606340460" duration="34375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35679000" />
+    <option name="totallyTimeSpent" value="35844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -948,14 +945,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="54" column="45" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/example-multipages/js/lib/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1016,16 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/subItem.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1038,10 +1017,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/cyy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="495">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/lib/testMid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1055">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirejs/example-multipage-shim/js/app/reactapp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
